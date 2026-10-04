@@ -11,7 +11,7 @@ A Business Analyst case study focused on cleaning, validating, analysing, and vi
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](Dashboard.png)
+![Power BI Dashboard](Dashboard.png.png)
 
 ---
 
