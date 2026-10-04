@@ -119,7 +119,7 @@ Some of the key observations from the analysis included:
 |---|---|
 | `Samuvel_Toviva_Sales_MIS.xlsx` | Excel workbook containing data cleaning, quality checks and analysis |
 | `Samuvel_Toviva_Lifesciences_PowerBi Dashborad.pbix` | Power BI dashboard |
-| `Dashboard.png` | Dashboard preview |
+| `Dashboard.png.png` | Dashboard preview |
 
 ---
 
