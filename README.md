@@ -15,6 +15,12 @@ A Business Analyst case study focused on cleaning, validating, analysing, and vi
 
 ---
 
+## 📊 Data_Quality Preview
+
+![Excel Data Quality](Data_Quality.png)
+
+---
+
 ## 🎯 Project Objective
 
 The objective of this project was to transform raw pharmaceutical sales data into a reliable MIS and Power BI dashboard that can help management understand:
